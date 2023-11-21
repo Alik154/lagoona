@@ -1,0 +1,287 @@
+body {
+    background-color: #f1f1f1;
+    margin: 0;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1170px;
+    height: 77px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header-bottom {
+    display: flex;
+    justify-content: space-around;
+    width: 1170px;
+    height: 77px;
+    border: 3px solid white;
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-basis: 650px;
+}
+
+.menu-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.container-island {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.heading {
+    font-family: serif;
+    font-size: 40px;
+    color: #333333;
+    padding: 50px;
+}
+
+.content-box {
+    display: flex;
+    gap: 25px;
+}
+
+.image-island {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.image-hotel {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-1 {
+    font-family: serif;
+    font-size: 40px;
+    color: #333333;
+    padding: 35px;
+}
+
+.text {
+    display: flex;
+    justify-content: flex-start;
+    line-height: 30px;
+    max-width: 880px;
+    font-size: 15px;
+    font-family: serif;
+}
+
+.heading-2 {
+    font-family: serif;
+    font-size: 40px;
+    color: #333333;
+    padding: 35px;
+}
+
+.container-services {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.content-box-1 {
+    display: flex;
+    gap: 25px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.footer-image-1{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.footer-image-2 {
+    display: flex;
+    gap: 25px;
+}
+
+.heading-3 {
+    font-family: serif;
+    font-size: 40px;
+    color: #333333;
+    padding: 35px;
+}
+
+.container_advantages {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.list {
+    display: flex;
+    gap: 25px;
+}
+
+.section-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.section-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.section-3 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.section-4 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.heading-4 {
+    font-family: serif;
+    font-size: 40px;
+    color: #333333;
+    padding: 35px;
+}
+
+.container-accommodation {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.header-top-1{
+    display: flex;
+    gap: 25px;
+}
+
+.aside-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.accommodation-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.aside-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.accommodation-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.aside-3 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.accommodation-3 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.container-2 {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.content-box-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 70px;
+    width: 1170px;
+    height: 260px;
+    border: 3px solid #E9E9E9;
+    background-color: #E9E9E9;
+}
+
+.heading-5 {
+    padding-left: 50px;
+    font-family: serif;
+    font-size: 40px;
+    color: #333333;
+}
+
+.items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading-6 {
+    font-family: serif;
+    font-size: 40px;
+    color: #333333;
+    padding: 35px;
+}
+
+.list-1 {
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    height: 620px;
+    border: 3px solid white;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.header-top-2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.list-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 50px;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+}
+
+.image-1 {
+    margin-top: 50px;
+}
